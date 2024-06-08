@@ -1,0 +1,62 @@
+{
+  "id": "",
+  "brand": "Apple",
+  "name": "Macbook Air",
+  "cpu": {
+    "brand": "AMD",
+    "name": "Ryzen 3 PRO 3200GE",
+    "number_cores": 8,
+    "number_threads": 12,
+    "min_ghz": 3.270957768434566,
+    "max_ghz": 4.238612762580261
+  },
+  "ram": {
+    "value": "10",
+    "unit": "GIGABYTE"
+  },
+  "gpus": [
+    {
+      "bread": "AMD",
+      "name": "RX 590",
+      "min_ghz": 1.2547610661083946,
+      "max_ghz": 1.639016622774166,
+      "memory": {
+        "value": "4",
+        "unit": "GIGABYTE"
+      }
+    }
+  ],
+  "storages": [
+    {
+      "driver": "SSD",
+      "memory": {
+        "value": "632",
+        "unit": "GIGABYTE"
+      }
+    },
+    {
+      "driver": "HDD",
+      "memory": {
+        "value": "4",
+        "unit": "TERABYTE"
+      }
+    }
+  ],
+  "screen": {
+    "size_inch": 15.642509,
+    "resolution": {
+      "width": 5376,
+      "height": 3024
+    },
+    "panel": "IPS",
+    "multitouch": false
+  },
+  "keyboard": {
+    "layout": "QWERTY",
+    "backlit": true
+  },
+  "weight_kg": 1.6912619813461838,
+  "price_usd": 2583.1917970313325,
+  "release_year": 2018,
+  "updated_at": "2024-06-07T13:22:42.215885800Z"
+}
